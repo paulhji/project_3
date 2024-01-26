@@ -1,19 +1,19 @@
-#Project 3: Using ETL Method to create a New York vehicle collision records datatbase.
+# Project 3: Using ETL Method to create a New York vehicle collision records datatbase.
 
-An overview of the project and its purpose
-
-
-
-Instructions on how to use and interact with the project
+## An overview of the project and its purpose
 
 
 
-At least one paragraph summarizing efforts for ethical considerations made in the project
+## Instructions on how to use and interact with the project
 
 
 
-References for the data source(s)
+## At least one paragraph summarizing efforts for ethical considerations made in the project
 
 
 
-References for any code used that is not your own
+## References for the data source(s)
+
+
+
+## References for any code used that is not your own
