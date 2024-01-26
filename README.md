@@ -3,7 +3,8 @@
 ## An overview of the project and its purpose
 This project follows data engineering proccesses and uses an ETL workflow to transmit data from the NYPD on car collisons.
 First we extrated the data from API endpoint provided by NYC Open Data.
-[Link Text](https://data.cityofnewyork.us/resource/h9gi-nx95.json)
+[Webpage](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)               
+[JSON](https://data.cityofnewyork.us/resource/h9gi-nx95.json)
 
 
 
