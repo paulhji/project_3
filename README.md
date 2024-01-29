@@ -14,10 +14,7 @@ The API was read into a python file using response request from the Pandas Libra
 After being read in the data was cleaned and organized in the following manor.
 
 1. Coloumns not applicable for our analysis were dropped using:
-<code>columns_dropped_df=df.drop(['on_street_name','off_street_name','cross_street_name',
-       'location', 'cross_street_name','contributing_factor_vehicle_4','vehicle_type_code_4',
-       'contributing_factor_vehicle_5', 'vehicle_type_code_5', 'zip_code']
-       , axis=1)
+<code>columns_dropped_df=df.drop(['on_street_name','off_street_name', axis=1)
 </code>
 
 2.Coloumns were renamed for simplicity.
