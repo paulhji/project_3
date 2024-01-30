@@ -37,8 +37,9 @@ clean_data</code>
 <code>vehicle_data_filtered = vehicle_data[~mask]</code>
 
 ## The clean data table
-[Data](clean_vehicle_data_table_pic.png)
+![Data](clean_vehicle_data_table_pic.png)
 
+![Alt Text](https://github.com/your-username/your-repository/raw/main/path/to/your/image.png)
 
 ## Instructions on how to use and interact with the project
 
