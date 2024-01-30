@@ -18,9 +18,12 @@ After being read in the data was cleaned and organized in the following manor.
 
 2.Coloumns were renamed for simplicity.
 
-3. 
+3.Cells with NA values in the latitude, longitude and borough columns were dropped, so that only data with a full scope of location were kept.
+<code> clean_data = columns_dropped_df.dropna(subset=['borough'] + ['latitude']+ ['longitude'])
+clean_data</code>
 
-
+4. Columns were renamed for simplicty, date and time columns were converterted to datetime format,
+ finally column values with integers were converted to float64 and then remaining columns were converted to object(string)
 ## Instructions on how to use and interact with the project
 
 
