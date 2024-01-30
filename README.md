@@ -39,14 +39,31 @@ clean_data</code>
 ## The clean data table
 ![Data](images/clean_vehicle_data_table_pic.png)
 ## Three seperate CSV's were created to load into our SQL database
+
+Collisions CSV
 ![colllisions](images/collision_csv_pic.png)
 
+
+People affected CSV
 ![people_affected](images/people_affected_csv_pic.png)
 
+
+Vehicle info CSV
 ![vehicle_info](images/vehicle_info_csv_pic.png)
 
-## Instructions on how to use and interact with the project
 
+## Database creation
+An ERD was created to show the realtionships between our three CSV's
+![ERD](database_design.png)
+
+
+## Instructions on how to use and interact with the project
+To interact and use this database follow the steps.
+1. upload the query.sql file to postgreSQL
+2. after the tables are created upload the corresponding CSV's to populate them
+3. Perform queries to obtain specific results.
+4. The queried results can be exported as CSV files and used to create visualizations using libraries like pandas or seaborn (histograms, piecharts etc.)
+5. Below are some examples of our queried results and visulazitions
 
 
 ## At least one paragraph summarizing efforts for ethical considerations made in the project
