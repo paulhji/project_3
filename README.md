@@ -8,7 +8,7 @@ First we extrated the data from API endpoint provided by NYC Open Data.
 
 [JSON](https://data.cityofnewyork.us/resource/h9gi-nx95.json)
 
-
+## Cleaning Process
 The API was read into a python file using response request from the Pandas Library.
 
 After being read in the data was cleaned and organized in the following manor.
@@ -27,8 +27,16 @@ clean_data</code>
 
 5. Lastly rows with all zero values(in regard to injury or death) were removed, since no person, motrist, or cyclist was injured we dropped the data to keep just incidents with injuries.
 <code>columns_to_check = ['persons_injured', 'persons_killed','pedestrians_injured', 'pedestrians_killed', 'cyclist_injured', 'cyclist_killed', 'motorist_injured', 'motorist_killed']</code>
+
+
 <code>mask = (vehicle_data[columns_to_check] == 0).all(axis=1)</code>
+
+
 <code>vehicle_data_filtered = vehicle_data[~mask]</code>
+
+## The clean data table
+![Data](clean/_vehicle_data_table_pic.png)
+
 
 ## Instructions on how to use and interact with the project
 
