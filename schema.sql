@@ -4,29 +4,29 @@
 
 
 CREATE TABLE "collision" (
-    "collision_id" INT   NOT NULL,
+    "collision_id" FLOAT   NOT NULL,
     "crash_date" DATE   NOT NULL,
     "crash_time" VARCHAR   NOT NULL,
     "borough" VARCHAR   NOT NULL,
-    "latitude" INT   NOT NULL,
-    "longitude" INT   NOT NULL,
+    "latitude" FLOAT   NOT NULL,
+    "longitude" FLOAT   NOT NULL,
     CONSTRAINT "pk_collision" PRIMARY KEY (
         "collision_id"
      )
 );
 
 CREATE TABLE "vehicle_info" (
-    "collision_id" INT   NOT NULL,
-    "vehicle_1" VARCHAR   NOT NULL,
-    "vehicle_2" VARCHAR   NOT NULL,
-    "vehicle_3" VARCHAR   NOT NULL,
-    "contributing_vehicle_1" VARCHAR   NOT NULL,
-    "contributing_vehicle_2" VARCHAR   NOT NULL,
-    "contributing_vehicle_3" VARCHAR   NOT NULL
+    "collision_id" FLOAT   NOT NULL,
+    "vehicle_1" VARCHAR,
+    "vehicle_2" VARCHAR,
+    "vehicle_3" VARCHAR,
+    "contributing_vehicle_1" VARCHAR,
+    "contributing_vehicle_2" VARCHAR,
+    "contributing_vehicle_3" VARCHAR
 );
 
 CREATE TABLE "people_affected" (
-    "collision_id" INT   NOT NULL,
+    "collision_id" FLOAT   NOT NULL,
     "persons_injured" INT   NOT NULL,
     "persons_killed" INT   NOT NULL,
     "pedestrians_killed" INT   NOT NULL,
@@ -42,3 +42,11 @@ REFERENCES "collision" ("collision_id");
 
 ALTER TABLE "people_affected" ADD CONSTRAINT "fk_people_affected_collision_id" FOREIGN KEY("collision_id")
 REFERENCES "collision" ("collision_id");
+
+
+-- Drop Tables
+DROP TABLE collision;
+
+DROP TABLE people_affected;
+
+DROP TABLE vehicle_info;
