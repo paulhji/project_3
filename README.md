@@ -37,7 +37,7 @@ clean_data</code>
 <code>vehicle_data_filtered = vehicle_data[~mask]</code>
 
 ## The clean data table
-![Data](clean_vehicle_data_table_pic.png)
+![Data](images/clean_vehicle_data_table_pic.png)
 ## Three seperate CSV's were created to load into our SQL database
 ![colllisions](clean_vehicle_data_table_pic.png)
 
