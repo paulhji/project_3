@@ -26,6 +26,8 @@ clean_data</code>
  finally column values with integers were converted to float64 and then remaining columns were converted to object(string)
 
 5. Lastly rows with all zero values(in regard to injury or death) were removed, since no person, motrist, or cyclist was injured we dropped the data to keep just incidents with injuries.
+
+   
 <code>columns_to_check = ['persons_injured', 'persons_killed','pedestrians_injured', 'pedestrians_killed', 'cyclist_injured', 'cyclist_killed', 'motorist_injured', 'motorist_killed']</code>
 
 
@@ -35,7 +37,7 @@ clean_data</code>
 <code>vehicle_data_filtered = vehicle_data[~mask]</code>
 
 ## The clean data table
-[Data](clean/_vehicle_data_table_pic.png)
+[Data](clean_vehicle_data_table_pic.png)
 
 
 ## Instructions on how to use and interact with the project
