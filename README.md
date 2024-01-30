@@ -39,7 +39,7 @@ clean_data</code>
 ## The clean data table
 ![Data](clean_vehicle_data_table_pic.png)
 
-![Alt Text](https://github.com/your-username/your-repository/raw/main/path/to/your/image.png)
+![Alt Text](https://github.com//paulhji/project_3/blob/main/collision.csv)
 
 ## Instructions on how to use and interact with the project
 
