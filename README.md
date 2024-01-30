@@ -55,6 +55,9 @@ clean_data</code>
 
 ## References for the data source(s)
 
+[Webpage](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) 
+
+[JSON](https://data.cityofnewyork.us/resource/h9gi-nx95.json)
 
 
 ## References for any code used that is not your own
