@@ -53,8 +53,12 @@ Vehicle info CSV
 
 
 ## Database creation
-An ERD was created to show the realtionships between our three CSV's
-![ERD](database_design.png)
+In this section, we used the cleaned csv files from the above sections to create a Postgresql Database. 
+
+First, an [ERD](database_design.png) was created to visualize the relationships between the entities. The SQL from this ERD was exported to: [crowdfunding_db_schema.sql](sql_schema_table_screenshots/crowdfunding_db_schema.sql).
+
+This SQL file was uploaded into the Database. The CSV files  were imported into the schema, and the database was queried with SELECT statements.
+
 
 
 ## Instructions on how to use and interact with the project
