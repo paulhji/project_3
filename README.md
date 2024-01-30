@@ -38,8 +38,12 @@ clean_data</code>
 
 ## The clean data table
 ![Data](clean_vehicle_data_table_pic.png)
-## Three seperate CSV's werte created to load into our SQL database
+## Three seperate CSV's were created to load into our SQL database
 ![colllisions](clean_vehicle_data_table_pic.png)
+
+![people_affected](people_affected_csv_pic.png)
+
+![vehicle_info](vehicle_info_csv_pic.png)
 
 ## Instructions on how to use and interact with the project
 
