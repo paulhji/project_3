@@ -1,214 +1,214 @@
 collision_id,vehicle_1,vehicle_2,vehicle_3,contributing_vehicle_1,contributing_vehicle_2,contributing_vehicle_3
-4486660,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4486635,Sedan,Sedan,nan,Reaction to Uninvolved Vehicle,Unspecified,nan
-4486991,Sedan,nan,nan,Steering Failure,nan,nan
-4487040,Station Wagon/Sport Utility Vehicle,Sedan,nan,Unspecified,Unspecified,nan
-4487001,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4486516,Sedan,nan,nan,Unspecified,nan,nan
-4487052,Sedan,Bike,nan,Unspecified,Unspecified,nan
-4486556,Bus,Station Wagon/Sport Utility Vehicle,nan,Passing or Lane Usage Improper,Unspecified,nan
-4521853,Station Wagon/Sport Utility Vehicle,Bike,nan,View Obstructed/Limited,Unspecified,nan
-4522228,Sedan,Pick-up Truck,nan,Unspecified,Unspecified,nan
-4522167,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Traffic Control Disregarded,Unspecified,nan
-4522136,Station Wagon/Sport Utility Vehicle,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4521590,Sedan,Sedan,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4521684,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4485150,Bike,nan,nan,Driver Inattention/Distraction,Unspecified,nan
-4485026,Sedan,nan,nan,Alcohol Involvement,nan,nan
-4485355,Sedan,Bike,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4484852,Station Wagon/Sport Utility Vehicle,Bike,nan,Following Too Closely,Reaction to Uninvolved Vehicle,nan
-4485542,Box Truck,Bike,nan,Passing or Lane Usage Improper,Unspecified,nan
-4485090,Sedan,Sedan,nan,Traffic Control Disregarded,Traffic Control Disregarded,nan
-4513935,Sedan,Moped,nan,Traffic Control Disregarded,Unspecified,nan
-4513794,Station Wagon/Sport Utility Vehicle,Sedan,nan,Lost Consciousness,Unspecified,nan
-4514267,Station Wagon/Sport Utility Vehicle,Bus,nan,Following Too Closely,Unspecified,nan
-4514237,Motorcycle,Sedan,nan,Following Too Closely,Unspecified,nan
-4514075,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4514202,Station Wagon/Sport Utility Vehicle,nan,nan,Alcohol Involvement,Unspecified,nan
-4513874,Station Wagon/Sport Utility Vehicle,Motorcycle,nan,Unsafe Speed,Unspecified,nan
-4514323,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Sedan,Other Vehicular,Following Too Closely,Unspecified
-4514182,Sedan,nan,nan,Unspecified,nan,nan
-4513663,Station Wagon/Sport Utility Vehicle,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4513565,nan,nan,nan,nan,nan,nan
-4513637,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4513833,Sedan,Sedan,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,Unspecified,Unspecified
-4513887,Station Wagon/Sport Utility Vehicle,Sedan,nan,Following Too Closely,Unspecified,nan
-4514376,Sedan,Sedan,Sedan,Unspecified,Unspecified,Unspecified
-4513982,Sedan,nan,nan,Unspecified,nan,nan
-4513664,Sedan,nan,nan,Unspecified,nan,nan
-4513725,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4513803,Sedan,Station Wagon/Sport Utility Vehicle,nan,Passing Too Closely,Unspecified,nan
-4513735,E-Bike,BOX VAN,nan,Passenger Distraction,Unspecified,nan
-4514367,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4513860,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Passing or Lane Usage Improper,Unspecified,nan
-4514302,Sedan,nan,nan,Backing Unsafely,nan,nan
-4514326,Station Wagon/Sport Utility Vehicle,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4513739,Bike,nan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4513701,Station Wagon/Sport Utility Vehicle,4 dr sedan,nan,Traffic Control Disregarded,Unspecified,nan
-4514046,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4513772,Bike,nan,nan,Unsafe Speed,nan,nan
-4514221,Sedan,Sedan,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4514277,Sedan,Bike,nan,Turning Improperly,Unspecified,nan
-4513994,Box Truck,Sedan,nan,Following Too Closely,Unspecified,nan
-4485893,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Other Vehicular,Other Vehicular,nan
-4485153,Taxi,Bike,nan,Following Too Closely,Unspecified,nan
-4456087,Sedan,nan,nan,Unspecified,nan,nan
-4456608,Sedan,Sedan,nan,Lost Consciousness,Unspecified,nan
-4456735,Sedan,Station Wagon/Sport Utility Vehicle,nan,Passing or Lane Usage Improper,Unspecified,nan
-4455941,Sedan,nan,nan,Unspecified,nan,nan
-4456778,Sedan,Sedan,nan,Failure to Yield Right-of-Way,Unsafe Speed,nan
-4455894,Station Wagon/Sport Utility Vehicle,Refrigerated Van,nan,Unspecified,Unspecified,nan
-4455969,Station Wagon/Sport Utility Vehicle,Sedan,nan,Following Too Closely,Unspecified,nan
-4455841,Station Wagon/Sport Utility Vehicle,Bike,nan,Passing or Lane Usage Improper,Other Vehicular,nan
-4456683,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4456865,Flat Bed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,Driver Inattention/Distraction,Unspecified
-4456655,Sedan,nan,nan,View Obstructed/Limited,nan,nan
-4456058,Station Wagon/Sport Utility Vehicle,Bus,nan,Unspecified,Unspecified,nan
-4456600,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4456592,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4456140,Station Wagon/Sport Utility Vehicle,nan,nan,Unsafe Speed,nan,nan
-4456577,Sedan,E-Bike,nan,Alcohol Involvement,Unspecified,nan
-4456200,Sedan,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4456692,Station Wagon/Sport Utility Vehicle,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4456921,Sedan,Sedan,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4456768,E-Bike,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4455757,Sedan,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4457032,Sedan,nan,nan,Driver Inattention/Distraction,Unspecified,nan
-4456572,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4455822,Station Wagon/Sport Utility Vehicle,Taxi,nan,Unspecified,Unspecified,nan
-4456721,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4456819,Motorcycle,nan,nan,Unspecified,nan,nan
-4456609,Station Wagon/Sport Utility Vehicle,E-Bike,nan,Driver Inattention/Distraction,Unspecified,nan
-4456078,Station Wagon/Sport Utility Vehicle,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4456688,Sedan,nan,nan,Tinted Windows,nan,nan
-4456395,nan,nan,nan,Driver Inattention/Distraction,nan,nan
-4456791,Taxi,Sedan,Sedan,Unspecified,Unspecified,Unspecified
-4456614,Motorcycle,nan,nan,Driver Inattention/Distraction,Unspecified,nan
-4456953,Sedan,E-Scooter,nan,Unspecified,Unspecified,nan
-4456563,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4456656,Sedan,Station Wagon/Sport Utility Vehicle,Sedan,Unsafe Speed,Unspecified,Unspecified
-4457006,Station Wagon/Sport Utility Vehicle,E-Bike,nan,Unsafe Lane Changing,Driver Inattention/Distraction,nan
-4456595,Pick-up Truck,Bike,nan,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,nan
-4456903,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4456982,Sedan,E-Bike,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4456235,Sedan,Bike,nan,Driver Inattention/Distraction,Unspecified,nan
-4455935,Sedan,Chassis Cab,nan,Driver Inexperience,Unspecified,nan
-4456710,E-Bike,E-Bike,nan,Driver Inattention/Distraction,Unspecified,nan
-4457021,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4456134,Sedan,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4403773,Sedan,Sedan,nan,Driver Inexperience,Unspecified,nan
-4405244,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Failure to Yield Right-of-Way,Unsafe Speed,nan
-4408143,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Unsafe Speed,Unspecified,nan
-4407638,Sedan,Van,nan,Following Too Closely,Unspecified,nan
-4408038,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Unspecified,Unspecified,Unspecified
-4407821,Sedan,Sedan,nan,Passing Too Closely,Unspecified,nan
-4408259,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4408396,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Drugs (illegal),Unspecified,nan
-4407792,Station Wagon/Sport Utility Vehicle,Bike,nan,Turning Improperly,Unspecified,nan
-4407853,Sedan,Station Wagon/Sport Utility Vehicle,nan,Traffic Control Disregarded,Unspecified,nan
-4408242,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4407798,Station Wagon/Sport Utility Vehicle,Sedan,nan,Following Too Closely,Unspecified,nan
-4407797,nan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407349,Station Wagon/Sport Utility Vehicle,Sedan,Sedan,Failure to Yield Right-of-Way,Unspecified,Unspecified
-4408032,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407478,Sedan,Sedan,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4407924,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4407539,Station Wagon/Sport Utility Vehicle,PK,nan,Driver Inattention/Distraction,Unspecified,nan
-4407830,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4408290,nan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4407277,Taxi,nan,nan,Driver Inattention/Distraction,nan,nan
-4407829,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Failure to Yield Right-of-Way,Turning Improperly,nan
-4456397,Motorcycle,nan,nan,Unspecified,nan,nan
-4407441,Station Wagon/Sport Utility Vehicle,E-Scooter,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4407856,Station Wagon/Sport Utility Vehicle,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4407729,Van,Sedan,Sedan,Unspecified,Unspecified,Unspecified
-4407789,Station Wagon/Sport Utility Vehicle,Bike,nan,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,nan
-4407576,Station Wagon/Sport Utility Vehicle,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4407414,Sedan,Bike,nan,Driver Inattention/Distraction,Driver Inattention/Distraction,nan
-4407623,Station Wagon/Sport Utility Vehicle,Motorcycle,nan,Passing or Lane Usage Improper,Unspecified,nan
-4408063,Station Wagon/Sport Utility Vehicle,nan,nan,Driver Inattention/Distraction,nan,nan
-4407766,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4408155,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4407866,Station Wagon/Sport Utility Vehicle,Sedan,nan,Driver Inexperience,Unspecified,nan
-4407453,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4407632,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4407096,Sedan,Station Wagon/Sport Utility Vehicle,nan,Traffic Control Disregarded,Unspecified,nan
-4407976,Station Wagon/Sport Utility Vehicle,Bus,nan,Backing Unsafely,Unspecified,nan
-4407714,Sedan,Bike,nan,Unsafe Speed,Unspecified,Unspecified
-4407637,Sedan,nan,nan,Unspecified,nan,nan
-4407354,Station Wagon/Sport Utility Vehicle,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4408027,Sedan,Station Wagon/Sport Utility Vehicle,nan,Driver Inattention/Distraction,Unspecified,nan
-4407408,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407762,Sedan,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4407805,Station Wagon/Sport Utility Vehicle,nan,nan,Turning Improperly,nan,nan
-4407837,Station Wagon/Sport Utility Vehicle,Sedan,nan,Passing Too Closely,Unspecified,nan
-4407548,Taxi,Sedan,Sedan,Failure to Yield Right-of-Way,Unsafe Speed,Unspecified
-4456635,Sedan,Bike,nan,View Obstructed/Limited,View Obstructed/Limited,nan
-4407842,Sedan,Sedan,nan,Following Too Closely,Unspecified,nan
-4407673,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Pavement Slippery,Unspecified,nan
-4407459,Van,nan,nan,Driver Inattention/Distraction,nan,nan
-4408367,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4407642,Taxi,nan,nan,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,nan,nan
-4408033,nan,nan,nan,Unspecified,nan,nan
-4408308,Sedan,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Turning Improperly,nan
-4408119,Taxi,nan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4407816,Pick-up Truck,Pick-up Truck,nan,Brakes Defective,Unspecified,nan
-4407543,Sedan,Station Wagon/Sport Utility Vehicle,nan,Driver Inattention/Distraction,Unspecified,nan
-4407923,Station Wagon/Sport Utility Vehicle,Sedan,Sedan,Driver Inattention/Distraction,Unspecified,Unspecified
-4407741,Station Wagon/Sport Utility Vehicle,Sedan,nan,Traffic Control Disregarded,Unspecified,nan
-4407647,Station Wagon/Sport Utility Vehicle,Bike,nan,Unspecified,Unspecified,nan
-4407604,Sedan,Concrete Mixer,nan,Driver Inattention/Distraction,Unspecified,nan
-4407752,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4408227,Taxi,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4408028,Sedan,Sedan,Box Truck,Unsafe Lane Changing,Unspecified,Unspecified
-4407445,Sedan,Motorcycle,nan,Reaction to Uninvolved Vehicle,Following Too Closely,nan
-4407327,Sedan,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4407928,Bike,nan,nan,Driver Inattention/Distraction,nan,nan
-4407412,Taxi,Sedan,nan,Reaction to Uninvolved Vehicle,Unspecified,nan
-4407660,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4408154,Sedan,nan,nan,Illnes,nan,nan
-4407938,Pick-up Truck,Sedan,nan,Following Too Closely,Unspecified,nan
-4408233,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4407990,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4408331,Sedan,Bike,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4407843,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407506,Taxi,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4407359,Sedan,nan,nan,Reaction to Uninvolved Vehicle,nan,nan
-4407857,Sedan,Bike,nan,Unspecified,Unspecified,nan
-4407788,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4407686,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4408068,Station Wagon/Sport Utility Vehicle,nan,nan,Unspecified,nan,nan
-4407353,Bike,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4407296,Sedan,nan,nan,Unspecified,nan,nan
-4407804,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4407795,Sedan,nan,nan,Unspecified,nan,nan
-4407347,Sedan,Station Wagon/Sport Utility Vehicle,nan,Traffic Control Disregarded,Unspecified,nan
-4407612,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,nan,Unspecified,Unspecified,nan
-4407864,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4408389,Sedan,Station Wagon/Sport Utility Vehicle,Sedan,Traffic Control Disregarded,Unspecified,Unspecified
-4456714,Sedan,Sedan,nan,Failure to Yield Right-of-Way,Other Vehicular,nan
-4408197,E-Bike,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4407847,Station Wagon/Sport Utility Vehicle,Van,nan,Driver Inexperience,Turning Improperly,nan
-4407668,Sedan,Sedan,nan,Failure to Yield Right-of-Way,View Obstructed/Limited,nan
-4407998,Sedan,Taxi,nan,Unsafe Speed,Turning Improperly,nan
-4407410,scooter,nan,nan,Aggressive Driving/Road Rage,Unspecified,nan
-4408095,Sedan,Station Wagon/Sport Utility Vehicle,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4456465,E-Bike,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4407904,Sedan,Sedan,nan,Failure to Yield Right-of-Way,Unspecified,nan
-4408226,Station Wagon/Sport Utility Vehicle,E-Bike,nan,Unspecified,Unspecified,nan
-4407743,Sedan,Sedan,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,Unspecified,Unspecified
-4407676,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407699,Sedan,Sedan,nan,Other Vehicular,Following Too Closely,nan
-4456516,Sedan,nan,nan,Driver Inattention/Distraction,nan,nan
-4407510,Sedan,Sedan,nan,Unspecified,nan,nan
-4407992,Sedan,nan,nan,Backing Unsafely,nan,nan
-4408221,Sedan,Sedan,nan,Unspecified,Unspecified,nan
-4408030,Station Wagon/Sport Utility Vehicle,nan,nan,Driver Inattention/Distraction,nan,nan
-4407646,Sedan,nan,nan,Failure to Yield Right-of-Way,nan,nan
-4407427,Sedan,Sedan,Sedan,Driver Inattention/Distraction,Unspecified,Unspecified
-4407341,Sedan,Sedan,nan,Driver Inattention/Distraction,Unspecified,nan
-4408300,Taxi,Station Wagon/Sport Utility Vehicle,nan,Following Too Closely,Unspecified,nan
-4407768,Sedan,E-Scooter,nan,Driver Inattention/Distraction,Unspecified,nan
-4407680,Sedan,Sedan,nan,Traffic Control Disregarded,Unspecified,nan
-4407740,Station Wagon/Sport Utility Vehicle,nan,nan,Turning Improperly,nan,nan
-4407822,Sedan,nan,nan,Driver Inattention/Distraction,Unspecified,nan
+4486660,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4486635,Sedan,Sedan,No additional car involved,Reaction to Uninvolved Vehicle,No additional car involved,No additional car involved
+4486991,Sedan,No additional car involved,No additional car involved,Steering Failure,No additional car involved,No additional car involved
+4487040,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4487001,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4486516,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4487052,Sedan,Bike,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4486556,Bus,Station Wagon/Sport Utility Vehicle,No additional car involved,Passing or Lane Usage Improper,No additional car involved,No additional car involved
+4521853,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,View Obstructed/Limited,No additional car involved,No additional car involved
+4522228,Sedan,Pick-up Truck,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4522167,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4522136,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4521590,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4521684,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4485150,Bike,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4485026,Sedan,No additional car involved,No additional car involved,Alcohol Involvement,No additional car involved,No additional car involved
+4485355,Sedan,Bike,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4484852,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,Following Too Closely,Reaction to Uninvolved Vehicle,No additional car involved
+4485542,Box Truck,Bike,No additional car involved,Passing or Lane Usage Improper,No additional car involved,No additional car involved
+4485090,Sedan,Sedan,No additional car involved,Traffic Control Disregarded,Traffic Control Disregarded,No additional car involved
+4513935,Sedan,Moped,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4513794,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Lost Consciousness,No additional car involved,No additional car involved
+4514267,Station Wagon/Sport Utility Vehicle,Bus,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4514237,Motorcycle,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4514075,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4514202,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Alcohol Involvement,No additional car involved,No additional car involved
+4513874,Station Wagon/Sport Utility Vehicle,Motorcycle,No additional car involved,Unsafe Speed,No additional car involved,No additional car involved
+4514323,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Sedan,Other Vehicular,Following Too Closely,No additional car involved
+4514182,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4513663,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4513565,nan,No additional car involved,No additional car involved,nan,No additional car involved,No additional car involved
+4513637,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4513833,Sedan,Sedan,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4513887,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4514376,Sedan,Sedan,Sedan,Unspecified,No additional car involved,No additional car involved
+4513982,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4513664,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4513725,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4513803,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Passing Too Closely,No additional car involved,No additional car involved
+4513735,E-Bike,BOX VAN,No additional car involved,Passenger Distraction,No additional car involved,No additional car involved
+4514367,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4513860,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Passing or Lane Usage Improper,No additional car involved,No additional car involved
+4514302,Sedan,No additional car involved,No additional car involved,Backing Unsafely,No additional car involved,No additional car involved
+4514326,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4513739,Bike,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4513701,Station Wagon/Sport Utility Vehicle,4 dr sedan,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4514046,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4513772,Bike,No additional car involved,No additional car involved,Unsafe Speed,No additional car involved,No additional car involved
+4514221,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4514277,Sedan,Bike,No additional car involved,Turning Improperly,No additional car involved,No additional car involved
+4513994,Box Truck,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4485893,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Other Vehicular,Other Vehicular,No additional car involved
+4485153,Taxi,Bike,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4456087,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456608,Sedan,Sedan,No additional car involved,Lost Consciousness,No additional car involved,No additional car involved
+4456735,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Passing or Lane Usage Improper,No additional car involved,No additional car involved
+4455941,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456778,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,Unsafe Speed,No additional car involved
+4455894,Station Wagon/Sport Utility Vehicle,Refrigerated Van,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4455969,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4455841,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,Passing or Lane Usage Improper,Other Vehicular,No additional car involved
+4456683,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456865,Flat Bed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4456655,Sedan,No additional car involved,No additional car involved,View Obstructed/Limited,No additional car involved,No additional car involved
+4456058,Station Wagon/Sport Utility Vehicle,Bus,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456600,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456592,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456140,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unsafe Speed,No additional car involved,No additional car involved
+4456577,Sedan,E-Bike,No additional car involved,Alcohol Involvement,No additional car involved,No additional car involved
+4456200,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4456692,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4456921,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4456768,E-Bike,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4455757,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4457032,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456572,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4455822,Station Wagon/Sport Utility Vehicle,Taxi,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456721,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456819,Motorcycle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456609,Station Wagon/Sport Utility Vehicle,E-Bike,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456078,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4456688,Sedan,No additional car involved,No additional car involved,Tinted Windows,No additional car involved,No additional car involved
+4456395,nan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456791,Taxi,Sedan,Sedan,Unspecified,No additional car involved,No additional car involved
+4456614,Motorcycle,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4456953,Sedan,E-Scooter,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456563,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456656,Sedan,Station Wagon/Sport Utility Vehicle,Sedan,Unsafe Speed,No additional car involved,No additional car involved
+4457006,Station Wagon/Sport Utility Vehicle,E-Bike,No additional car involved,Unsafe Lane Changing,Driver Inattention/Distraction,No additional car involved
+4456595,Pick-up Truck,Bike,No additional car involved,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,No additional car involved,No additional car involved
+4456903,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4456982,Sedan,E-Bike,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4456235,Sedan,Bike,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4455935,Sedan,Chassis Cab,No additional car involved,Driver Inexperience,No additional car involved,No additional car involved
+4456710,E-Bike,E-Bike,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4457021,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4456134,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4403773,Sedan,Sedan,No additional car involved,Driver Inexperience,No additional car involved,No additional car involved
+4405244,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Failure to Yield Right-of-Way,Unsafe Speed,No additional car involved
+4408143,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Unsafe Speed,No additional car involved,No additional car involved
+4407638,Sedan,Van,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4408038,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,Unspecified,No additional car involved,No additional car involved
+4407821,Sedan,Sedan,No additional car involved,Passing Too Closely,No additional car involved,No additional car involved
+4408259,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408396,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Drugs (illegal),No additional car involved,No additional car involved
+4407792,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,Turning Improperly,No additional car involved,No additional car involved
+4407853,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4408242,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407798,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4407797,nan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407349,Station Wagon/Sport Utility Vehicle,Sedan,Sedan,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408032,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407478,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4407924,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407539,Station Wagon/Sport Utility Vehicle,PK,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407830,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408290,nan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407277,Taxi,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407829,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Failure to Yield Right-of-Way,Turning Improperly,No additional car involved
+4456397,Motorcycle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407441,Station Wagon/Sport Utility Vehicle,E-Scooter,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4407856,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407729,Van,Sedan,Sedan,Unspecified,No additional car involved,No additional car involved
+4407789,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,No additional car involved,No additional car involved
+4407576,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407414,Sedan,Bike,No additional car involved,Driver Inattention/Distraction,Driver Inattention/Distraction,No additional car involved
+4407623,Station Wagon/Sport Utility Vehicle,Motorcycle,No additional car involved,Passing or Lane Usage Improper,No additional car involved,No additional car involved
+4408063,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407766,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4408155,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407866,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Driver Inexperience,No additional car involved,No additional car involved
+4407453,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407632,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407096,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4407976,Station Wagon/Sport Utility Vehicle,Bus,No additional car involved,Backing Unsafely,No additional car involved,No additional car involved
+4407714,Sedan,Bike,No additional car involved,Unsafe Speed,No additional car involved,No additional car involved
+4407637,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407354,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408027,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407408,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407762,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407805,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Turning Improperly,No additional car involved,No additional car involved
+4407837,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Passing Too Closely,No additional car involved,No additional car involved
+4407548,Taxi,Sedan,Sedan,Failure to Yield Right-of-Way,Unsafe Speed,No additional car involved
+4456635,Sedan,Bike,No additional car involved,View Obstructed/Limited,View Obstructed/Limited,No additional car involved
+4407842,Sedan,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4407673,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Pavement Slippery,No additional car involved,No additional car involved
+4407459,Van,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4408367,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407642,Taxi,No additional car involved,No additional car involved,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,No additional car involved,No additional car involved
+4408033,nan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4408308,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,Turning Improperly,No additional car involved
+4408119,Taxi,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407816,Pick-up Truck,Pick-up Truck,No additional car involved,Brakes Defective,No additional car involved,No additional car involved
+4407543,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407923,Station Wagon/Sport Utility Vehicle,Sedan,Sedan,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407741,Station Wagon/Sport Utility Vehicle,Sedan,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4407647,Station Wagon/Sport Utility Vehicle,Bike,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407604,Sedan,Concrete Mixer,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407752,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4408227,Taxi,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4408028,Sedan,Sedan,Box Truck,Unsafe Lane Changing,No additional car involved,No additional car involved
+4407445,Sedan,Motorcycle,No additional car involved,Reaction to Uninvolved Vehicle,Following Too Closely,No additional car involved
+4407327,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407928,Bike,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407412,Taxi,Sedan,No additional car involved,Reaction to Uninvolved Vehicle,No additional car involved,No additional car involved
+4407660,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4408154,Sedan,No additional car involved,No additional car involved,Illnes,No additional car involved,No additional car involved
+4407938,Pick-up Truck,Sedan,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4408233,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407990,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408331,Sedan,Bike,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407843,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407506,Taxi,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407359,Sedan,No additional car involved,No additional car involved,Reaction to Uninvolved Vehicle,No additional car involved,No additional car involved
+4407857,Sedan,Bike,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407788,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407686,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4408068,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407353,Bike,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4407296,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407804,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4407795,Sedan,No additional car involved,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407347,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4407612,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407864,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4408389,Sedan,Station Wagon/Sport Utility Vehicle,Sedan,Traffic Control Disregarded,No additional car involved,No additional car involved
+4456714,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,Other Vehicular,No additional car involved
+4408197,E-Bike,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407847,Station Wagon/Sport Utility Vehicle,Van,No additional car involved,Driver Inexperience,Turning Improperly,No additional car involved
+4407668,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,View Obstructed/Limited,No additional car involved
+4407998,Sedan,Taxi,No additional car involved,Unsafe Speed,Turning Improperly,No additional car involved
+4407410,scooter,No additional car involved,No additional car involved,Aggressive Driving/Road Rage,No additional car involved,No additional car involved
+4408095,Sedan,Station Wagon/Sport Utility Vehicle,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4456465,E-Bike,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407904,Sedan,Sedan,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4408226,Station Wagon/Sport Utility Vehicle,E-Bike,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407743,Sedan,Sedan,Station Wagon/Sport Utility Vehicle,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407676,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407699,Sedan,Sedan,No additional car involved,Other Vehicular,Following Too Closely,No additional car involved
+4456516,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407510,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4407992,Sedan,No additional car involved,No additional car involved,Backing Unsafely,No additional car involved,No additional car involved
+4408221,Sedan,Sedan,No additional car involved,Unspecified,No additional car involved,No additional car involved
+4408030,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407646,Sedan,No additional car involved,No additional car involved,Failure to Yield Right-of-Way,No additional car involved,No additional car involved
+4407427,Sedan,Sedan,Sedan,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407341,Sedan,Sedan,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4408300,Taxi,Station Wagon/Sport Utility Vehicle,No additional car involved,Following Too Closely,No additional car involved,No additional car involved
+4407768,Sedan,E-Scooter,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
+4407680,Sedan,Sedan,No additional car involved,Traffic Control Disregarded,No additional car involved,No additional car involved
+4407740,Station Wagon/Sport Utility Vehicle,No additional car involved,No additional car involved,Turning Improperly,No additional car involved,No additional car involved
+4407822,Sedan,No additional car involved,No additional car involved,Driver Inattention/Distraction,No additional car involved,No additional car involved
