@@ -41,21 +41,24 @@ clean_data</code>
 ## Three seperate CSV's were created to load into our SQL database
 
 Collisions CSV
+
 ![colllisions](images/collision_csv_pic.png)
 
 
 People affected CSV
+
 ![people_affected](images/people_affected_csv_pic.png)
 
 
 Vehicle info CSV
+
 ![vehicle_info](images/vehicle_info_csv_pic.png)
 
 
 ## Database creation
 In this section, we used the cleaned csv files from the above sections to create a Postgresql Database. 
 
-First, an [ERD](database_design.png) was created to visualize the relationships between the entities. The SQL from this ERD was exported to: [crowdfunding_db_schema.sql](sql_schema_table_screenshots/crowdfunding_db_schema.sql).
+First, an [ERD](database_design.png) was created to visualize the relationships between the entities, and allow easy creation of our schema.sql
 
 This SQL file was uploaded into the Database. The CSV files  were imported into the schema, and the database was queried with SELECT statements.
 
