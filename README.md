@@ -38,8 +38,8 @@ clean_data</code>
 
 ## The clean data table
 ![Data](clean_vehicle_data_table_pic.png)
-
-![Alt Text](https://github.com//paulhji/project_3/blob/main/collision.csv)
+## Three seperate CSV's werte created to load into our SQL database
+![colllisions](clean_vehicle_data_table_pic.png)
 
 ## Instructions on how to use and interact with the project
 
