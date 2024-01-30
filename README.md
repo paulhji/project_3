@@ -35,7 +35,7 @@ clean_data</code>
 <code>vehicle_data_filtered = vehicle_data[~mask]</code>
 
 ## The clean data table
-![Data](clean/_vehicle_data_table_pic.png)
+[Data](clean/_vehicle_data_table_pic.png)
 
 
 ## Instructions on how to use and interact with the project
