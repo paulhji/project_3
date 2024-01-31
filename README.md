@@ -75,7 +75,7 @@ To interact and use this database follow the steps.
 
 Queries
 
- ![schema](/query.sql).
+ ![queries](/query.sql).
 
 ## At least one paragraph summarizing efforts for ethical considerations made in the project
 
