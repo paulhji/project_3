@@ -60,8 +60,9 @@ In this section, we used the cleaned csv files from the above sections to create
 
 First, an ![ERD](database_design.png) was created to visualize the relationships between the entities, and allow easy creation of our schema.sql
 
-This SQL file was uploaded into the Database. The CSV files  were imported into the schema, and the database was queried with SELECT statements.
+This SQL file was uploaded into the Database. The CSV files were imported into the schema, and the database was queried with SELECT statements.
 
+ [schema](/schema.sql).
 
 
 ## Instructions on how to use and interact with the project
