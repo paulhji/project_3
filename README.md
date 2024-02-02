@@ -58,10 +58,11 @@ Vehicle info CSV
 ## Database creation
 In this section, we used the cleaned csv files from the above sections to create a Postgresql Database. 
 
-First, an [ERD](database_design.png) was created to visualize the relationships between the entities, and allow easy creation of our schema.sql
+First, an ![ERD](database_design.png) was created to visualize the relationships between the entities, and allow easy creation of our schema.sql
 
-This SQL file was uploaded into the Database. The CSV files  were imported into the schema, and the database was queried with SELECT statements.
+This SQL file was uploaded into the Database. The CSV files were imported into the schema, and the database was queried with SELECT statements.
 
+ ![schema](/schema.sql).
 
 
 ## Instructions on how to use and interact with the project
@@ -72,9 +73,15 @@ To interact and use this database follow the steps.
 4. The queried results can be exported as CSV files and used to create visualizations using libraries like pandas or seaborn (histograms, piecharts etc.)
 5. Below are some examples of our queried results and visulazitions
 
+Queries
+
+ ![queries](/query.sql).
 
 ## At least one paragraph summarizing efforts for ethical considerations made in the project
-hippa
+
+Looking at ethical considerations, several factors need to be taken into account. Firstly, the data under examination is sourced exclusively from the NYPD, indicating that only reported collisions were tracked. It is crucial to acknowledge the limitation that not all collisions are included in this dataset. It is reasonable to assume that collisions involving individuals without insurance or those in a lower socioeconomic status may not have been reported.
+
+Given the nature of this dataset, there arises an intriguing avenue for research—tracking the journey of individuals who sustained injuries in these collisions. However, to delve into this aspect, participants would be required to provide consent for the release of their medical information in accordance with the Health Insurance Portability and Accountability Act (HIPAA). If such approvals were obtained, a more in-depth analysis of the injury data associated with vehicle collisions could have been conducted.
 
 
 ## References for the data source(s)
