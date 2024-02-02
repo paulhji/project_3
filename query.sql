@@ -131,3 +131,18 @@ ORDER BY factor_count DESC;
 
 
 
+
+
+-- Other Interesting Queries
+-- Number of Persons Affected in Collisions
+SELECT
+    SUM(persons_injured) AS total_persons_injured,
+    SUM(persons_killed) AS total_persons_killed
+FROM people_affected;
+
+-- Joining Tables
+SELECT c.*, v.*, pa.*
+FROM collision c
+JOIN vehicle_info v ON c.collision_id = v.collision_id
+JOIN people_affected pa ON c.collision_id = pa.collision_id;
+
